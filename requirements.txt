@@ -34,7 +34,7 @@ numpy==1.19.2
     #   tifffile
 pandas==1.1.2
     # via seaborn
-pillow==8.2.0
+pillow==8.3.2
     # via
     #   imageio
     #   matplotlib
