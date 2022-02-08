@@ -21,7 +21,7 @@ matplotlib==3.3.2
     #   seaborn
 networkx==2.5
     # via scikit-image
-numpy==1.19.2
+numpy==1.21.0
     # via
     #   -r requirements.in
     #   imageio
